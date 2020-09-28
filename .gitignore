@@ -1,0 +1,8 @@
+node_modules/**
+public/js/**
+public/css/**
+public/rubix_docs/**
+tags
+.tmp
+*~
+*.swp
